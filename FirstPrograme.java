@@ -1,8 +1,10 @@
 package Practice_Java;
 
-public class FirstPrograme {
+class FirstPrograme {
 
-	public static void main(String [] args) {
-		System.out.println("First Programe");
-	}
+	public static void main(String [] args) throws InterruptedException {
+		
+		System.out.println("First Program"+(int)'a');
+		
+		}
 }
